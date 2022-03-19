@@ -1,4 +1,5 @@
 const express=require("express");
+//files 
 const router=express.Router();
 
 const Dresses=require("../models/dresses.model");
@@ -20,15 +21,7 @@ router.get("/category", async(req,res)=>{
     }
 })
 
-// ------------get dresses data-------------
-// router.get("/dresses", async(req,res)=>{
-//     try{
-//         const dresses=await Dresses.find().lean().exec();
-//        return res.send(dresses)
-//     }catch(err){
-//         return res.status(500).send(err.message)
-//     }
-// })
+
 
 
 router.get("/dresses",async(req,res)=>{

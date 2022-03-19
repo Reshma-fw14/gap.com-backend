@@ -100,7 +100,7 @@
     width: 100%;
     margin: auto;
     text-align: center;
-    /* border: 1px solid black; */
+  
     margin-bottom: 30px;
 }
 .all_tags{
@@ -123,7 +123,7 @@
     text-transform: uppercase;
 }
 
-/* you may also like */
+/* you may also like box */
 
 #liking_div{
     width: 86%;

@@ -1,6 +1,6 @@
-# clone-Gap
+# Gap.com
 
-![Lifestylestore](https://user-images.githubusercontent.com/96103401/158479838-6fa581d1-df85-4287-aef3-3ae890f1a40f.png)
+![Gap](https://github.com/Reshma-fw14/gap.com-backend/blob/main/public/gap%20images/gap1.png)
 
 # Welcome :wave:
 
@@ -22,11 +22,11 @@
 ## deployment Link:-
 https://gap-clone.herokuapp.com/home
 
-<!-- ## Contributers :- 
-- #### [Omkar](https://www.linkedin.com/in/omkar-salunkhe-1ba371228/)
-- #### [Abhishek](https://www.linkedin.com/in/abhishek-dadhich-743bb422a/)
-- #### [Deeksha](https://www.linkedin.com/in/deeksha-sharma-5320a8202/)
-- #### [Reshma](https://www.linkedin.com/in/reshma-a8a871189/) -->
+ ## Contributers :- 
+- #### [Reshma](https://www.linkedin.com/in/reshma-a8a871189/)
+- #### [Shravya](https://www.linkedin.com/in/shravya-rao-chanda-4ba10b231/)
+- #### [Shreya](https://www.linkedin.com/in/shreya-pannase-382814214/)
+- #### [Aditya kumar](https://www.linkedin.com/in/aditya-kumar-898a9814a/) 
 
 ## Tech Stack :- 
 
@@ -64,7 +64,7 @@ https://gap-clone.herokuapp.com/home
 
 
 
-## Screenshots :- 
-## For more details :- ![frontpage](https://user-images.githubusercontent.com/96103401/158800507-f60b4236-f11f-4bc9-88dc-e89f386f7fbb.png)
+<!-- ## Screenshots :- 
+## For more details :- ![frontpage](https://user-images.githubusercontent.com/96103401/158800507-f60b4236-f11f-4bc9-88dc-e89f386f7fbb.png) -->
 
-[Blog](https://link.medium.com/C5O6mlCR6lb)
+<!-- [Blog](https://link.medium.com/C5O6mlCR6lb) -->

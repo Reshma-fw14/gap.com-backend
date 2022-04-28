@@ -20,13 +20,15 @@
 [Demo of project](https://drive.google.com/file/d/12gMKxDuDB5k8kbnjHcSIWzhe40mHegKs/view?usp=sharing)
 
 ## deployment Link:-
-https://gap-clone.herokuapp.com/home
+https://gap-project.herokuapp.com/home
+
 
  ## Contributers :- 
 - #### [Reshma](https://www.linkedin.com/in/reshma-a8a871189/)
 - #### [Shravya](https://www.linkedin.com/in/shravya-rao-chanda-4ba10b231/)
 - #### [Shreya](https://www.linkedin.com/in/shreya-pannase-382814214/)
 - #### [Aditya kumar](https://www.linkedin.com/in/aditya-kumar-898a9814a/) 
+- #### [Tejaswini P S](https://www.linkedin.com/in/tejaswini-shreeramwar/)
 
 ## Tech Stack :- 
 

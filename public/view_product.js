@@ -110,7 +110,7 @@ const addToBag = (elem) => {
         p = view_items.price[0].split("")
         p.shift();
         p = +p.join("")
-        // console.log(p); 
+       
 
         total += p 
     }
@@ -119,6 +119,8 @@ const addToBag = (elem) => {
 
 
 // //<--------------function to remove popup---------------->
+
+
 document.getElementById("crosS").onclick=()=>{
     document.getElementById('removePopup').style.display = 'none';
 }
@@ -167,7 +169,7 @@ function display(elem){
             // console.log(elem.color)
              document.getElementById("title").textContent=elem.price[0];
              document.getElementById("append1").src=elem.image[0];
-             document.getElementById("prod_color").textContent=` Selected Colour : ${elem.color[0]}`
+             document.getElementById("prod_color").textContent = `Selected Colour : ${elem.color[0]}`
         })
 
         document.getElementById("color-2").addEventListener("click",()=>{
